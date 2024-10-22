@@ -41,7 +41,7 @@ public class game
 
        
             int row, col;
-            Console.WriteLine($" {currentPlayer} -ის ჯერია, შეიყვანეთ არჩეული სვლის სტრიქონი და სვეტი(0, 1, or 2): ");
+            Console.WriteLine($" {currentPlayer} -ის ჯერია, შეიყვანეთ არჩეული სვლის სტრიქონი და სვეტი(0, 1, ან 2): ");
 
           
             while (true)
